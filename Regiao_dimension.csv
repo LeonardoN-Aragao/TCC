@@ -1,0 +1,167 @@
+"regiao_ID","Regiao","Municipio","UF"
+1,Norte,Boa Vista,RR
+2,Nordeste,Fortaleza,CE
+3,Nordeste,Iguatu,CE
+4,Nordeste,Juazeiro do Norte,CE
+5,Nordeste,Russas,CE
+6,Norte,Rorainópolis,RR
+7,Nordeste,Itapipoca,CE
+8,Nordeste,Natal,RN
+9,Nordeste,Quixadá,CE
+10,Nordeste,Sobral,CE
+11,Nordeste,Mossoró,RN
+12,Nordeste,Caicó,RN
+13,Nordeste,Santa Cruz,RN
+14,Nordeste,Campina Grande,PB
+15,Nordeste,Patos,PB
+16,Nordeste,Monteiro,PB
+17,Nordeste,João Pessoa,PB
+18,Nordeste,Picos,PI
+19,Nordeste,Parnaíba,PI
+20,Nordeste,Teresina,PI
+21,Nordeste,Floriano,PI
+22,Norte,Rio Branco,AC
+23,Norte,Cruzeiro do Sul,AC
+24,Nordeste,Caxias,MA
+25,Nordeste,Bacabal,MA
+26,Nordeste,Balsas,MA
+27,Nordeste,Imperatriz,MA
+28,Norte,Porto Velho,RO
+29,Nordeste,São Luís,MA
+30,Nordeste,Petrolina,PE
+31,Nordeste,Juazeiro,BA
+32,Nordeste,Feira de Santana,BA
+33,Nordeste,Serra Talhada,PE
+34,Nordeste,Caruaru,PE
+35,Nordeste,Olinda,PE
+36,Nordeste,Recife,PE
+37,Nordeste,Vitória de Santo Antão,PE
+38,Nordeste,Jaboatão dos Guararapes,PE
+39,Nordeste,Arapiraca,AL
+40,Nordeste,Maceió,AL
+41,Norte,Ji-Paraná,RO
+42,Nordeste,Delmiro Gouveia,AL
+43,Nordeste,Aracaju,SE
+44,Nordeste,Nossa Senhora da Glória,SE
+45,Nordeste,Lagarto,SE
+46,Nordeste,Alagoinhas,BA
+47,Norte,Belém,PA
+48,Norte,Macapá,AP
+49,Nordeste,Salvador,BA
+50,Norte,Abaetetuba,PA
+51,Nordeste,Itabuna,BA
+52,Nordeste,Vitória da Conquista,BA
+53,Sul,Curitiba,PR
+54,Norte,Ananindeua,PA
+55,Sul,Londrina,PR
+56,Nordeste,Barreiras,BA
+57,Sul,Francisco Beltrão,PR
+58,Sul,Cascavel,PR
+59,Sul,Maringá,PR
+60,Norte,Breves,PA
+61,Norte,Araguaína,TO
+62,Norte,Marabá,PA
+63,Norte,Palmas,TO
+64,Sul,Joinville,SC
+65,Centro-Oeste,Porangatu,GO
+66,Centro-Oeste,Goiânia,GO
+67,Norte,Manaus,AM
+68,Norte,Tartarugalzinho,AP
+69,Norte,Altamira,PA
+70,Centro-Oeste,Aparecida de Goiânia,GO
+71,Centro-Oeste,Rio Verde,GO
+72,Sul,Umuarama,PR
+73,Centro-Oeste,Anápolis,GO
+74,Sudeste,Teófilo Otoni,MG
+75,Sul,Florianópolis,SC
+76,Sudeste,Niterói,RJ
+77,Sudeste,Rio de Janeiro,RJ
+78,Sudeste,São João de Meriti,RJ
+79,Sudeste,Belo Horizonte,MG
+80,Sudeste,Governador Valadares,MG
+81,Sudeste,São Gonçalo,RJ
+82,Centro-Oeste,Goiás,GO
+83,Norte,Manicoré,AM
+84,Sudeste,São Paulo,SP
+85,Sudeste,Mogi das Cruzes,SP
+86,Sudeste,Unaí,MG
+87,Centro-Oeste,Luziânia,GO
+88,Sudeste,Contagem,MG
+89,Sudeste,Divinópolis,MG
+90,Sudeste,Carapicuíba,SP
+91,Sudeste,Sorocaba,SP
+92,Centro-Oeste,Dourados,MS
+93,Sudeste,Barbacena,MG
+94,Sudeste,Betim,MG
+95,Sul,Campo Mourão,PR
+96,Centro-Oeste,Barra do Garças,MT
+97,Sudeste,Bauru,SP
+98,Sul,Cornélio Procópio,PR
+99,Sudeste,Juiz de Fora,MG
+100,Sul,Ponta Grossa,PR
+101,Sul,Irati,PR
+102,Norte,Tabatinga,AM
+103,Sudeste,Montes Claros,MG
+104,Sudeste,Vitória,ES
+105,Sudeste,Vila Velha,ES
+106,Centro-Oeste,Sinop,MT
+107,Sudeste,Itapetininga,SP
+108,Centro-Oeste,Brasília,DF
+109,Sudeste,Mauá,SP
+110,Sudeste,Ourinhos,SP
+111,Sudeste,Diadema,SP
+112,Sudeste,Marília,SP
+113,Sudeste,Serra,ES
+114,Sudeste,Belford Roxo,RJ
+115,Sudeste,Cariacica,ES
+116,Sul,Guarapuava,PR
+117,Sudeste,Diamantina,MG
+118,Sudeste,Jundiaí,SP
+119,Sudeste,São José dos Campos,SP
+120,Sudeste,Presidente Prudente,SP
+121,Sudeste,Colatina,ES
+122,Sudeste,Araçatuba,SP
+123,Centro-Oeste,Tangará da Serra,MT
+124,Sudeste,Poços de Caldas,MG
+125,Sudeste,São Carlos,SP
+126,Sudeste,Curvelo,MG
+127,Sudeste,Itanhaém,SP
+128,Sudeste,Nova Iguaçu,RJ
+129,Centro-Oeste,Cuiabá,MT
+130,Sudeste,Piracicaba,SP
+131,Sudeste,São José do Rio Preto,SP
+132,Sudeste,Guarulhos,SP
+133,Sudeste,São Vicente,SP
+134,Sudeste,Santos,SP
+135,Sudeste,São Bernardo do Campo,SP
+136,Norte,Novo Airão,AM
+137,Centro-Oeste,Campo Grande,MS
+138,Sul,Porto Alegre,RS
+139,Sudeste,Uberlândia,MG
+140,Sudeste,Ribeirão Preto,SP
+141,Centro-Oeste,Rondonópolis,MT
+142,Sudeste,Santo André,SP
+143,Norte,Santarém,PA
+144,Sudeste,Campinas,SP
+145,Sudeste,Osasco,SP
+146,Sudeste,Duque de Caxias,RJ
+147,Sul,Criciúma,SC
+148,Sul,Canoas,RS
+149,Sul,Lages,SC
+150,Sul,Santa Cruz do Sul,RS
+151,Sudeste,Volta Redonda,RJ
+152,Sul,Santa Maria,RS
+153,Sul,Chapecó,SC
+154,Sul,Pelotas,RS
+155,Sul,Caxias do Sul,RS
+156,Sul,Bagé,RS
+157,Centro-Oeste,Três Lagoas,MS
+158,Centro-Oeste,Corumbá,MS
+159,Sul,Passo Fundo,RS
+160,Sul,Blumenau,SC
+161,Sudeste,Campos dos Goytacazes,RJ
+162,Sudeste,Cachoeiro de Itapemirim,ES
+163,Sudeste,Linhares,ES
+164,Sudeste,Itaperuna,RJ
+165,Sudeste,Cabo Frio,RJ
+166,Sudeste,Nova Friburgo,RJ
